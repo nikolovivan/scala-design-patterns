@@ -1,0 +1,4 @@
+this is a data file
+which contains lines
+and those lines will be
+manipulated by our stream reader.

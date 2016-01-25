@@ -17,6 +17,7 @@
         <module>creational-design-patterns</module>
         <module>deep-theory</module>
         <module>functional-design-patterns</module>
+        <module>structural-design-patterns</module>
     </modules>
     <properties>
         <scala.version>2.11.7</scala.version>
