@@ -1,0 +1,5 @@
+this is a file, which
+will be completely capitalized
+in a monadic way.
+
+Enjoy!

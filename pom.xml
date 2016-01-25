@@ -15,6 +15,7 @@
         <module>aop</module>
         <module>behavioral-design-patterns</module>
         <module>creational-design-patterns</module>
+        <module>deep-theory</module>
     </modules>
     <properties>
         <scala.version>2.11.7</scala.version>
