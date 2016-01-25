@@ -11,6 +11,7 @@
     <modules>
         <module>traits</module>
         <module>unification</module>
+        <module>abstract-types</module>
     </modules>
     <properties>
         <scala.version>2.11.7</scala.version>
