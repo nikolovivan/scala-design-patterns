@@ -13,12 +13,17 @@
         <module>unification</module>
         <module>abstract-types</module>
         <module>aop</module>
+        <module>behavioral-design-patterns</module>
     </modules>
     <properties>
         <scala.version>2.11.7</scala.version>
         <scalatest.version>2.2.4</scalatest.version>
         <scalaz.version>7.2.0</scalaz.version>
         <json4s.jackson.version>3.2.11</json4s.jackson.version>
+        <json4s.native.version>3.2.11</json4s.native.version>
+        <scalalogging.version>3.1.0</scalalogging.version>
+        <slf4j.version>1.7.12</slf4j.version>
+        <commons.codec.version>1.10</commons.codec.version>
     </properties>
     
     <dependencies>
