@@ -12,11 +12,13 @@
         <module>traits</module>
         <module>unification</module>
         <module>abstract-types</module>
+        <module>aop</module>
     </modules>
     <properties>
         <scala.version>2.11.7</scala.version>
         <scalatest.version>2.2.4</scalatest.version>
         <scalaz.version>7.2.0</scalaz.version>
+        <json4s.jackson.version>3.2.11</json4s.jackson.version>
     </properties>
     
     <dependencies>
