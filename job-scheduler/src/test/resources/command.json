@@ -1,0 +1,10 @@
+{
+  "name": "Test Command",
+  "command": "ping google.com -c 10",
+  "frequency": "Daily",
+  "type": "Console",
+  "time_options": {
+    "hours": 12,
+    "minutes": 10
+  }
+}

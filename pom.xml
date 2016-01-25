@@ -19,6 +19,7 @@
         <module>functional-design-patterns</module>
         <module>structural-design-patterns</module>
         <module>real-life-applications</module>
+        <module>job-scheduler</module>
     </modules>
     <properties>
         <scala.version>2.11.7</scala.version>
