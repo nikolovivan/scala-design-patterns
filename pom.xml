@@ -10,6 +10,7 @@
     <version>1.0.0-SNAPSHOT</version>
     <modules>
         <module>traits</module>
+        <module>unification</module>
     </modules>
     <properties>
         <scala.version>2.11.7</scala.version>
