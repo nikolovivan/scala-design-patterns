@@ -12,9 +12,9 @@ The source code for the book is presented as amulti-module Maven project and it 
     There is no code for this chapter. It provided the users with some skeletons.
 
 2. Chapter 2 - Traits and Mixin Compositions.
-    
+
     a. Module name: **traits**.
-     
+
 3. Chapter 3 - Unification.
 
     a. Module name: **unification**.
@@ -54,8 +54,9 @@ The source code for the book is presented as amulti-module Maven project and it 
 12. Chapter 12 - Real Life Applications.
 
     a. Module name: **real-life-applications**.
-    b. Module name: **job-scheduler**.
     
+    b. Module name: **job-scheduler**.
+
 ### Running the Code
 
 Running the code is pretty straightforward from here and anyone with some minor Maven experience should manage.
@@ -73,3 +74,5 @@ The test command will also run the compile one.
 #### Creating the Jars
 
 `mvn clean package`
+
+The above command will package everything. You can find the jars in the **target** subfolder of the respective module folder.
